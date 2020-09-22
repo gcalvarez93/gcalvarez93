@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 #  Hello, my name is Gabriel Castro
 ### Freelance iOS & Android developer
 
-![https://github.com/mouredev](https://raw.githubusercontent.com/mouredev/mouredev/master/mouredev_github_profile.png)
+![https://github.com/gcadev](https://raw.githubusercontent.com/gcadev/gcadev/master/gcadev_home_registrada.png)
 
 I'm a professional mobile app developer since last year.
 
