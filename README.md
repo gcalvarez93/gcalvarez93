@@ -50,5 +50,5 @@ Since then I have dedicated myself to specializing in mobile application develop
 
 ## Contact me:
 
-[![Email](https://img.shields.io/badge/gabrielcastro@gcadev.com-email_profesional-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:gabrielcastro@gcadev.com)
+[![Email](https://img.shields.io/badge/email_profesional-gabrielcastro@gcadev.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:gabrielcastro@gcadev.com)
 [![Web](https://img.shields.io/badge/My_Website-GcaDev.com/contacto-14a1f0?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://gcadev.com/contacto)
