@@ -40,7 +40,7 @@ Since then I have dedicated myself to specializing in mobile application develop
 
 ## Find me at:
 
-[![Web](https://img.shields.io/badge/My_Website-www.GcaDev.com-14a1f0?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://gcadev.com)
+[![Web](https://img.shields.io/badge/My_Website-www.GcaDev.com-14a1f0?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://www.gcadev.com)
 [![Twitter](https://img.shields.io/badge/Twitter-@gcadev-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/GcaDev)
 [![Facebook](https://img.shields.io/badge/Facebook-@gcadev-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=101010)](https://facebook.com/GcaDev)
 </br>
@@ -50,4 +50,4 @@ Since then I have dedicated myself to specializing in mobile application develop
 ## Contact me:
 
 [![Email](https://img.shields.io/badge/email-gabrielcastro@gcadev.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:gabrielcastro@gcadev.com)
-[![Web](https://img.shields.io/badge/My_Website-www.GcaDev.com/contacto-14a1f0?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://gcadev.com/contacto)
+[![Web](https://img.shields.io/badge/My_Website-www.GcaDev.com/contacto-14a1f0?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://www.gcadev.com/contacto)
