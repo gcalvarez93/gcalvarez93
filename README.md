@@ -27,7 +27,7 @@ Since then I have dedicated myself to specializing in mobile application develop
 </br>
 
 ## Find me at:
-[![Web](https://img.shields.io/badge/My_Website-www.GcaDev.com-007396?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://www.gcadev.com)
+[![Web](https://img.shields.io/badge/My_Website-www.GcaDev.com-1575F9?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://www.gcadev.com)
 [![Play Store](https://img.shields.io/badge/Play_Store-GcaDev-3DDC84?style=for-the-badge&logo=google-play&logoColor=white&labelColor=101010)](https://play.google.com/store/apps/dev?id=8534532239802041777)
 </br>
 [![Twitter](https://img.shields.io/badge/Twitter-@gcadev-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/GcaDev)
@@ -38,4 +38,4 @@ Since then I have dedicated myself to specializing in mobile application develop
 ## Contact me:
 
 [![Email](https://img.shields.io/badge/email-gabrielcastro@gcadev.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:gabrielcastro@gcadev.com)
-[![Web](https://img.shields.io/badge/My_Website-www.GcaDev.com/contacto-007396?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://www.gcadev.com/contacto)
+[![Web](https://img.shields.io/badge/My_Website-www.GcaDev.com/contacto-1575F9?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://www.gcadev.com/contacto)
