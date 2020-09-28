@@ -12,7 +12,7 @@ Since then I have dedicated myself to specializing in mobile application develop
 [![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=101010)]()
 [![Apple](https://img.shields.io/badge/iOS-999999?style=for-the-badge&logo=apple&logoColor=white&labelColor=101010)]()
 </br>
-[![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)]()
+[![Java](https://img.shields.io/badge/Java-D14836?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)]()
 [![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=101010)]()
 [![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white&labelColor=101010)]()
 </br>
@@ -27,7 +27,7 @@ Since then I have dedicated myself to specializing in mobile application develop
 </br>
 
 ## Find me at:
-[![Web](https://img.shields.io/badge/My_Website-www.GcaDev.com-14a1f0?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://www.gcadev.com)
+[![Web](https://img.shields.io/badge/My_Website-www.GcaDev.com-007396?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://www.gcadev.com)
 [![Play Store](https://img.shields.io/badge/Play_Store-GcaDev-3DDC84?style=for-the-badge&logo=google-play&logoColor=white&labelColor=101010)](https://play.google.com/store/apps/dev?id=8534532239802041777)
 </br>
 [![Twitter](https://img.shields.io/badge/Twitter-@gcadev-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/GcaDev)
@@ -38,4 +38,4 @@ Since then I have dedicated myself to specializing in mobile application develop
 ## Contact me:
 
 [![Email](https://img.shields.io/badge/email-gabrielcastro@gcadev.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:gabrielcastro@gcadev.com)
-[![Web](https://img.shields.io/badge/My_Website-www.GcaDev.com/contacto-14a1f0?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://www.gcadev.com/contacto)
+[![Web](https://img.shields.io/badge/My_Website-www.GcaDev.com/contacto-007396?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://www.gcadev.com/contacto)
