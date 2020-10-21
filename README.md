@@ -5,7 +5,7 @@
 
 I'm a professional mobile app developer since last year.
 
-In 2019 I create [**GcaDev**](https://gcadev.com), due to my interest in trends in the mobile app industry.
+In 2019 I create [**GcaDev**](https://gcadev.com), due to my interest in the mobile app development industry.
 Since then I have dedicated myself to specializing in mobile application development, creating Apps and founding my own startup.
 
 ## Skills:
