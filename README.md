@@ -1,7 +1,7 @@
 #  Hello, my name is Gabriel Castro
 ### Freelance iOS & Android developer
 
-![https://github.com/gcadev](https://raw.githubusercontent.com/gcadev/gcadev/master/portada_gcadev.png)
+![https://github.com/gcadev](https://raw.githubusercontent.com/gcadev/gcadev/master/gcadev_rrss.png)
 
 I'm a professional mobile app developer since last year.
 
