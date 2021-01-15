@@ -20,7 +20,7 @@ Since then I have dedicated myself to specializing in mobile application develop
 [![Android_Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white&labelColor=101010)]()
 [![Xcode](https://img.shields.io/badge/Xcode-1575F9?style=for-the-badge&logo=xcode&logoColor=white&labelColor=101010)]()
 [![Flutter](https://img.shields.io/badge/Flutter-1DA1F2?style=for-the-badge&logo=flutter&logoColor=white&labelColor=101010)]()
-[![React Native](https://img.shields.io/badge/React-1DA1F2?style=for-the-badge&logo=react&logoColor=white&labelColor=101010)]()
+[![React Native](https://img.shields.io/badge/React-1DA1F2?style=for-the-badge&logo=react-native&logoColor=white&labelColor=101010)]()
 </br>
 [![Google_Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white&labelColor=101010)]()
 [![Google_Maps](https://img.shields.io/badge/Google_Maps_Platform-D14836?style=for-the-badge&logo=google-maps&logoColor=white&labelColor=101010)]()
