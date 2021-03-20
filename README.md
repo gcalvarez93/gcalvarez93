@@ -11,7 +11,6 @@ Since then I have dedicated myself to specializing in mobile application develop
 [![Apple](https://img.shields.io/badge/iOS-999999?style=for-the-badge&logo=apple&logoColor=white&labelColor=101010)]()
 </br>
 [![Java](https://img.shields.io/badge/Java-D14836?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)]()
-[![JacScript](https://img.shields.io/badge/JavaScript-FFCA28?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
 [![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=101010)]()
 [![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white&labelColor=101010)]()
 </br>
