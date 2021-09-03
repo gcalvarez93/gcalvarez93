@@ -31,7 +31,7 @@ Since then I have dedicated myself to specializing in mobile application develop
 [![Facebook](https://img.shields.io/badge/Facebook-@gcadev-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=101010)](https://facebook.com/gcadev)
 [![Instagram](https://img.shields.io/badge/Instagram-@gcadev-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://instagram.com/gcadev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Gabriel_Castro-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/gcalvarez)
-[![Gitlab](https://img.shields.io/badge/Gitlab-GcaDev-3DDC84?style=for-the-badge&logo=gitlab&logoColor=white&labelColor=101010)](https://gitlab.com/gcadev)
+[![Gitlab](https://img.shields.io/badge/Gitlab-GcaDev-999999?style=for-the-badge&logo=gitlab&logoColor=white&labelColor=101010)](https://gitlab.com/gcadev)
 ## Contact me:
 
 [![Email](https://img.shields.io/badge/email-gabrielcastro@gcadev.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:gabrielcastro@gcadev.com)
