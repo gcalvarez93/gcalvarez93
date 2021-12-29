@@ -19,7 +19,7 @@ Since then I have dedicated myself to specializing in mobile application develop
 [![Xcode](https://img.shields.io/badge/Xcode-1575F9?style=for-the-badge&logo=xcode&logoColor=white&labelColor=101010)]()
 </br>
 [![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white&labelColor=101010)]()
-[![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4479A1?style=for-the-badge&logo=jetpack-compose&logoColor=white&labelColor=101010)]()
+[![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=101010)]()
 [![Unity](https://img.shields.io/badge/Unity-101010?style=for-the-badge&logo=unity&logoColor=white&labelColor=101010)]()
 </br>
 
