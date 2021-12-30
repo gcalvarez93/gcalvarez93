@@ -21,6 +21,7 @@ Since then I have dedicated myself to specializing in mobile application develop
 [![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white&labelColor=101010)]()
 [![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=101010)]()
 [![SwiftUI](https://img.shields.io/badge/SwiftUI-FA7343?style=for-the-badge&logo=swift&logoColor=white&labelColor=101010)]()
+[![Jenkins](https://img.shields.io/badge/Jenkins-FA7343?style=for-the-badge&logo=jenkins&logoColor=white&labelColor=101010)]()
 </br>
 
 ## Find me at:
