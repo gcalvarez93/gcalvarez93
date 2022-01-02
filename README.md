@@ -20,7 +20,7 @@ Since then I have dedicated myself to specializing in mobile application develop
 [![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white&labelColor=101010)]()
 [![Flutter](https://img.shields.io/badge/Flutter-1DA1F2?style=for-the-badge&logo=flutter&logoColor=white&labelColor=101010)]()
 [![Jenkins](https://img.shields.io/badge/Jenkins-D14836?style=for-the-badge&logo=jenkins&logoColor=white&labelColor=101010)]()
-[![Git](https://img.shields.io/badge/Git-D14836?style=for-the-badge&logo=git&logoColor=white&labelColor=101010)]()
+[![Git](https://img.shields.io/badge/Git-14EEC3?style=for-the-badge&logo=git&logoColor=white&labelColor=101010)]()
 </br>
 
 ## Find me at:
