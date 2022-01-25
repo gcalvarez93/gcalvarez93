@@ -1,10 +1,8 @@
 #  👋🏽 Hello, my name is Gabriel Castro
-### Freelance iOS & Android developer
-
-![https://github.com/gcadev](https://raw.githubusercontent.com/gcadev/gcadev/master/gcadev-rrss2.png)
+### iOS & Android Developer
 
 I'm a professional mobile app developer since 2019, when I create [**GcaDev**](https://gcadev.com), due to my interest in the mobile app development industry.
-Since then I have dedicated myself to specializing in mobile application development, creating Apps and founding my own startup.
+Since then I have dedicated myself to specializing in mobile application development.
 
 ## Skills:
 [![Apple](https://img.shields.io/badge/iOS-999999?style=for-the-badge&logo=apple&logoColor=white&labelColor=101010)]()
@@ -30,7 +28,7 @@ Since then I have dedicated myself to specializing in mobile application develop
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Gabriel_Castro-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/gcalvarez)
 [![Facebook](https://img.shields.io/badge/Facebook-@gcadev-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=101010)](https://facebook.com/gcadev)
 [![App Store](https://img.shields.io/badge/App_Store-Gabriel_Castro-999999?style=for-the-badge&logo=app-store&logoColor=white&labelColor=101010)](https://apps.apple.com/es/developer/gabriel-castro/id1562727246)
-[![Play Store](https://img.shields.io/badge/Play_Store-GcaDev-3DDC84?style=for-the-badge&logo=google-play&logoColor=white&labelColor=101010)](https://play.google.com/store/apps/dev?id=8534532239802041777)
+[![Play Store](https://img.shields.io/badge/Play_Store-Gabriel_Castro-3DDC84?style=for-the-badge&logo=google-play&logoColor=white&labelColor=101010)](https://play.google.com/store/apps/dev?id=8534532239802041777)
 ## Contact me:
 
 [![Email](https://img.shields.io/badge/email-gabrielcastro@gcadev.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:gabrielcastro@gcadev.com)
