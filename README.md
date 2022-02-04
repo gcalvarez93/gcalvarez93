@@ -29,8 +29,3 @@ Since then I have dedicated myself to specializing in mobile application develop
 [![Facebook](https://img.shields.io/badge/Facebook-@gcadev-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=101010)](https://facebook.com/gcadev)
 [![App Store](https://img.shields.io/badge/App_Store-Gabriel_Castro-999999?style=for-the-badge&logo=app-store&logoColor=white&labelColor=101010)](https://apps.apple.com/es/developer/gabriel-castro/id1562727246)
 [![Play Store](https://img.shields.io/badge/Play_Store-Gabriel_Castro-3DDC84?style=for-the-badge&logo=google-play&logoColor=white&labelColor=101010)](https://play.google.com/store/apps/dev?id=8534532239802041777)
-## Contact me:
-
-[![Email](https://img.shields.io/badge/email-gabrielcastro@gcadev.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:gabrielcastro@gcadev.com)
-[![MyPublicInbox](https://img.shields.io/badge/MyPublicInbox-MESSAGE+COFFEE_(FAST_RESPONSE)_Thank_you!-orange?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white&labelColor=101010)](https://mypublicinbox.com/gcadev)
-[![Web](https://img.shields.io/badge/My_Website-www.GcaDev.com/contacto-1575F9?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://www.gcadev.com/contacto)
