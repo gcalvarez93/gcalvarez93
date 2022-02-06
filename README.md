@@ -1,7 +1,7 @@
 #  👋🏽 Hello, my name is Gabriel Castro
 ### iOS & Android Developer
 
-I'm a professional mobile app developer since 2019, when I create [**GcaDev**](https://gcadev.com), due to my interest in the mobile app development industry.
+I'm a professional mobile app developer since 2020, when I create my own trademark, [**GcaDev**](https://gcadev.com), due to my interest in the mobile app development industry.
 Since then I have dedicated myself to specializing in mobile application development.
 
 ## Skills:
