@@ -23,9 +23,9 @@ Since then I have dedicated myself to specializing in mobile application develop
 
 ## Find me at:
 [![Web](https://img.shields.io/badge/My_Website-www.GcaDev.com-1575F9?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://www.gcadev.com)
-[![Twitter](https://img.shields.io/badge/Twitter-@gcadev-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/gcadev)
-[![Instagram](https://img.shields.io/badge/Instagram-@gcadev-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://instagram.com/gcadev)
+[![Twitter](https://img.shields.io/badge/Twitter-Gabriel_Castro-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/gcalvarez93)
+[![Instagram](https://img.shields.io/badge/Instagram-Gabriel_Castro-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://instagram.com/gcalvarez93)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Gabriel_Castro-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/gcalvarez)
-[![Facebook](https://img.shields.io/badge/Facebook-@gcadev-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=101010)](https://facebook.com/gcadev)
+[![Facebook](https://img.shields.io/badge/Facebook-Gabriel_Castro-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=101010)](https://www.facebook.com/gabriel.castroalvarez)
 [![App Store](https://img.shields.io/badge/App_Store-Gabriel_Castro-999999?style=for-the-badge&logo=app-store&logoColor=white&labelColor=101010)](https://apps.apple.com/es/developer/gabriel-castro/id1562727246)
 [![Play Store](https://img.shields.io/badge/Play_Store-Gabriel_Castro-3DDC84?style=for-the-badge&logo=google-play&logoColor=white&labelColor=101010)](https://play.google.com/store/apps/dev?id=8534532239802041777)
