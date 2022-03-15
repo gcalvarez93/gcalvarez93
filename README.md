@@ -1,8 +1,8 @@
-#  👋🏽 Hello, my name is Gabriel Castro
+#  👋🏽 Hola, mi nombre es Gabriel Castro
 ### iOS & Android Developer
 
-I'm a professional mobile app developer since 2020, when I create my own trademark, [**GcaDev**](https://gcadev.com), due to my interest in the mobile app development industry.
-Since then I have dedicated myself to specializing in mobile application development.
+Soy desarrollador mobile desde 2020, cuando creo mi marca, [**GcaDev**](https://gcadev.com), debido a mi interés por el desarrollo de aplicaciones móviles.
+Desde entonces me he dedicado a especializarme en el desarrollo de aplicaciones móviles.
 
 ## Skills:
 [![Apple](https://img.shields.io/badge/iOS-999999?style=for-the-badge&logo=apple&logoColor=white&labelColor=101010)]()
@@ -21,7 +21,7 @@ Since then I have dedicated myself to specializing in mobile application develop
 [![Git](https://img.shields.io/badge/Git-14EEC3?style=for-the-badge&logo=git&logoColor=white&labelColor=101010)]()
 </br>
 
-## Find me at:
+## Encuéntrame en:
 [![Web](https://img.shields.io/badge/My_Website-www.GcaDev.com-1575F9?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://www.gcadev.com)
 [![Twitter](https://img.shields.io/badge/Twitter-Gabriel_Castro-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/gcalvarez93)
 [![Instagram](https://img.shields.io/badge/Instagram-Gabriel_Castro-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://instagram.com/gcalvarez93)
