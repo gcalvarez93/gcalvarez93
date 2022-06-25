@@ -1,5 +1,5 @@
 #  👋🏽 Hola, mi nombre es Gabriel Castro
-### iOS & Android Developer
+### iOS Developer
 
 Soy desarrollador mobile desde 2020, debido a mi interés por el desarrollo de aplicaciones móviles.
 Desde entonces me he dedicado a especializarme en el desarrollo de aplicaciones móviles.
