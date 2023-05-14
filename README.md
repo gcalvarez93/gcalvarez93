@@ -23,7 +23,5 @@ Desde entonces me he dedicado a especializarme en el desarrollo de aplicaciones 
 </br>
 
 ## Encuéntrame en:
-[![Twitter](https://img.shields.io/badge/Twitter-Gabriel_Castro-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/gcalvarez93)
-[![Instagram](https://img.shields.io/badge/Instagram-Gabriel_Castro-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://instagram.com/gcalvarez93)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Gabriel_Castro-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/gcalvarez)
 [![Facebook](https://img.shields.io/badge/Facebook-Gabriel_Castro-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=101010)](https://www.facebook.com/gabriel.castroalvarez)
