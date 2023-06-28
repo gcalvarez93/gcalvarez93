@@ -24,4 +24,3 @@ Desde entonces me he dedicado a especializarme en el desarrollo de aplicaciones 
 
 ## Encuéntrame en:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Gabriel_Castro-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/gcalvarez)
-[![Facebook](https://img.shields.io/badge/Facebook-Gabriel_Castro-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=101010)](https://www.facebook.com/gabriel.castroalvarez)
