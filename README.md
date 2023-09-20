@@ -1,4 +1,4 @@
-#  👋🏽 Hola, mi nombre es Gabriel Castro
+#  👋🏻 Hola, mi nombre es Gabriel Castro
 ### iOS Developer
 
 Soy desarrollador mobile desde 2020, debido a mi interés por el desarrollo de aplicaciones móviles.
