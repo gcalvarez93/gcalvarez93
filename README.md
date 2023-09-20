@@ -17,6 +17,7 @@ Desde entonces me he dedicado a especializarme en el desarrollo de aplicaciones 
 [![Android_Studio](https://img.shields.io/badge/Android_Studio-14EEC3?style=for-the-badge&logo=android-studio&logoColor=white&labelColor=101010)]()
 </br>
 [![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white&labelColor=101010)]()
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-FFCA28?style=for-the-badge&logo=postgre_sql&logoColor=white&labelColor=101010)]()
 [![Git](https://img.shields.io/badge/Git-14EEC3?style=for-the-badge&logo=git&logoColor=white&labelColor=101010)]()
 [![Jira](https://img.shields.io/badge/Jira-1575F9?style=for-the-badge&logo=jira&logoColor=white&labelColor=101010)]()
 [![Confluence](https://img.shields.io/badge/Confluence-1575F9?style=for-the-badge&logo=confluence&logoColor=white&labelColor=101010)]()
