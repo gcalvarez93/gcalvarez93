@@ -1,8 +1,9 @@
 #  👋🏻 Hola, mi nombre es Gabriel Castro
-### iOS Developer
+### Mobile Developer
 
 Soy desarrollador mobile desde 2020, debido a mi interés por el desarrollo de aplicaciones móviles.
 Desde entonces me he dedicado a especializarme en el desarrollo de aplicaciones móviles.
+Actualmente estoy cursando un bootcamp de Desarrollo Mobile en KeepCoding.
 
 ## Skills:
 [![Apple](https://img.shields.io/badge/iOS-999999?style=for-the-badge&logo=apple&logoColor=white&labelColor=101010)]()
