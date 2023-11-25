@@ -1,8 +1,6 @@
 #  👋🏻 Hola, mi nombre es Gabriel Castro
 ### Mobile Developer
 
-Soy Desarrollador de Aplicaciones Móviles. 
-
 Comencé mi carrera como técnico de sistemas informáticos pero, ante la falta de oportunidades laborales y mi interés por el creciente sector del desarrollo mobile decidí cambiar de rumbo mi carrera y empezar a formarme en el desarrollo de aplicaciones móviles.
 
 He trabajado como freelance desarrollando aplicaciones iOS y Android y en equipos multidisciplinares como desarrollador iOS aplicando la metodología Scrum y los principios SOLID y Clean Code.
