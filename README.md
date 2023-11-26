@@ -9,7 +9,7 @@ Actualmente estoy cursando un Bootcamp de Desarrollo FullStack Mobile en las tec
 
 ## Skills:
 
-### iOS
+### iOS (https://img.shields.io/badge/iOS-999999?style=for-the-badge&logo=apple&logoColor=white&labelColor=101010)]()
 [![Apple](https://img.shields.io/badge/iOS-999999?style=for-the-badge&logo=apple&logoColor=white&labelColor=101010)]()
 [![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white&labelColor=101010)]()
 [![SwiftUI](https://img.shields.io/badge/SwiftUI-144FEE?style=for-the-badge&logo=swift&logoColor=white&labelColor=101010)]()
