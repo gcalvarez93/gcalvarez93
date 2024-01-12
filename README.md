@@ -2,9 +2,12 @@
 
 <div id="header" align="center">
   <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="500"/>
+</div>
+
+<div id="header" align="center">
 
 ### iOS & Android Developer
-</div>
+</div
 
 🧑🏻‍💻 Soy un apasionado del desarrollo mobile con varios años de experiencia en el sector, desarrollando aplicaciones nativas, mayormente en iOS, aunque también he realizado proyectos en Android.
 
@@ -12,7 +15,10 @@
 
 🧑🏻‍💻 Actualmente estoy cursando un Bootcamp de Desarrollo FullStack Mobile en las tecnologías de Swift y SwiftUI para iOS y Kotlin y Compose para Android. Me desarrollo bien en las dos plataformas.
 
+<div id="header" align="center">
+  
 ## Skills:
+</div>
 
 ### iOS
 [![Apple](https://img.shields.io/badge/iOS-999999?style=for-the-badge&logo=apple&logoColor=white&labelColor=101010)]()
