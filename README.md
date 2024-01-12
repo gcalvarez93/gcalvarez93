@@ -1,7 +1,12 @@
 #  👋🏻 Hola, mi nombre es Gabriel Castro
+
+<div id="header" align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="500"/>
+</div>
+
 ### Mobile Developer
 
-🧑‍🔧 Comencé mi carrera como técnico de sistemas informáticos pero, ante la falta de oportunidades laborales y mi interés por el creciente sector del desarrollo mobile decidí cambiar de rumbo mi carrera y empezar a formarme en el desarrollo de aplicaciones móviles.
+🧑🏻‍💻 Soy un apasionado del desarrollo mobile con varios años de experiencia en el sector, desarrollando aplicaciones nativas, mayormente en iOS, aunque también he realizado proyectos en Android.
 
 💻 He trabajado como freelance desarrollando aplicaciones iOS y Android y en equipos multidisciplinares como desarrollador iOS aplicando la metodología Scrum y los principios SOLID y Clean Code.
 
@@ -30,4 +35,14 @@
 </br>
 
 ## Encuéntrame en:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Gabriel_Castro-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/gcalvarez)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Gabriel_Castro-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/gabriel-castro-alvarez)
+
+
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/ArisGuimera">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=gcalvarez93&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=gcalvarez93&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
