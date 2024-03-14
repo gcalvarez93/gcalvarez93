@@ -42,7 +42,6 @@
 
 ## Encuéntrame en:
 [![LinkedIn](https://img.shields.io/badge/Gabriel_Castro-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/gabriel-castro-alvarez)
-[![LinkedIn](https://img.shields.io/badge/Gabriel_Castro-0077B5?style=for-the-badge&logo=malt&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/gabriel-castro-alvarez)
 
 ### ⚙️ &nbsp;GitHub Analytics
 
