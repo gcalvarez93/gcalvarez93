@@ -13,7 +13,7 @@
 
 💻 He trabajado como freelance desarrollando aplicaciones iOS y Android y en equipos multidisciplinares como desarrollador iOS aplicando la metodología Scrum y los principios SOLID y Clean Code.
 
-🧑🏻‍💻 Actualmente estoy cursando un Bootcamp de Desarrollo FullStack Mobile en las tecnologías de Swift y SwiftUI para iOS y Kotlin y Compose para Android. Me desarrollo bien en las dos plataformas.
+🧑🏻‍💻 He realizado un Bootcamp de Desarrollo FullStack Mobile en las tecnologías de Swift y SwiftUI para iOS y Kotlin y Compose para Android. Me desarrollo bien en las dos plataformas.
 
 <div id="header" align="center">
   
