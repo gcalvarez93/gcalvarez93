@@ -15,30 +15,16 @@
 
 🧑🏻‍💻 He realizado un Bootcamp de Desarrollo FullStack Mobile en las tecnologías de Swift y SwiftUI para iOS y Kotlin y Compose para Android. Me desarrollo bien en las dos plataformas.
 
-<div id="header" align="center">
-  
-## Skills:
-</div>
+## Mis Proyectos
+ 📑 [My CV](https://github.com/gcalvarez93/my-cv)
+ 
+ ☀️ [Weather App](https://github.com/gcalvarez93/weather-ios-app)
 
-### iOS
-[![Apple](https://img.shields.io/badge/iOS-999999?style=for-the-badge&logo=apple&logoColor=white&labelColor=101010)]()
-[![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white&labelColor=101010)]()
-[![SwiftUI](https://img.shields.io/badge/SwiftUI-144FEE?style=for-the-badge&logo=swift&logoColor=white&labelColor=101010)]()
-[![Xcode](https://img.shields.io/badge/Xcode-1575F9?style=for-the-badge&logo=xcode&logoColor=white&labelColor=101010)]()
-</br>
-### Android
-[![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=101010)]()
-[![Kotlin](https://img.shields.io/badge/Kotlin-FF8000?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=101010)]()
-[![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-572364?style=for-the-badge&logo=android&logoColor=white&labelColor=101010)]()
-[![Android_Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white&labelColor=101010)]()
-</br>
-### Otras
-[![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white&labelColor=101010)]()
-[![Git](https://img.shields.io/badge/Git-FF0000?style=for-the-badge&logo=git&logoColor=white&labelColor=101010)]()
-[![Jira](https://img.shields.io/badge/Jira-1575F9?style=for-the-badge&logo=jira&logoColor=white&labelColor=101010)]()
-[![Confluence](https://img.shields.io/badge/Confluence-1575F9?style=for-the-badge&logo=confluence&logoColor=white&labelColor=101010)]()
-[![Flutter](https://img.shields.io/badge/Flutter-1DA1F2?style=for-the-badge&logo=flutter&logoColor=white&labelColor=101010)]()
-</br>
+ ➕ [Clon Calculadora iOS](https://github.com/gcalvarez93/calculadora-ios)
+
+ Puedes consultar todos mis proyectos en: 
+
+💼 [Mis Proyectos](https://github.com/gcalvarez93?tab=repositories)
 
 ## Encuéntrame en:
 [![LinkedIn](https://img.shields.io/badge/Gabriel_Castro-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/gabriel-castro-alvarez)
