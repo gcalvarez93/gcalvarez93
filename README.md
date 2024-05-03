@@ -33,7 +33,7 @@ Aqui te dejo algunos de mis proyectos realizados hasta el momento:
 [![Malt](https://img.shields.io/badge/Malt-Gabriel_Castro-FF0000?style=for-the-badge&logo=malt&logoColor=white&labelColor=101010)](https://www.malt.es/profile/gabrielcastroalvarez)
 
 
-### ⚙️ &nbsp;GitHub Analytics
+## ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
 <a href="https://github.com/gcalvarez93">
