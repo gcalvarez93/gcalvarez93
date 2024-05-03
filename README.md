@@ -1,4 +1,4 @@
-#  👋🏻 Hola, mi nombre es Gabriel Castro
+#  Hola, mi nombre es Gabriel Castro 👋🏻 
 
 <div id="header" align="center">
   <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="500"/>
@@ -16,6 +16,8 @@
 🧑🏻‍💻 He realizado un Bootcamp de Desarrollo FullStack Mobile en las tecnologías de Swift y SwiftUI para iOS y Kotlin y Compose para Android. Me desarrollo bien en las dos plataformas.
 
 ## Mis Proyectos
+Aqui te dejo algunos de mis proyectos realizados hasta el momento:
+
  📑 [My CV](https://github.com/gcalvarez93/my-cv)
  
  ☀️ [Weather App](https://github.com/gcalvarez93/weather-ios-app)
