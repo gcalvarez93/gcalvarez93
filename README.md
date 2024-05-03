@@ -6,12 +6,12 @@
 
 <div id="header" align="center">
 
-### iOS & Android Developer
+### iOS Developer
 </div
 
 🧑🏻‍💻 Soy un apasionado del desarrollo mobile con varios años de experiencia en el sector, desarrollando aplicaciones nativas, mayormente en iOS, aunque también he realizado proyectos en Android.
 
-💻 He trabajado como freelance desarrollando aplicaciones iOS y Android y en equipos multidisciplinares como desarrollador iOS aplicando la metodología Scrum y los principios SOLID y Clean Code.
+💻 Actualmente trabajo como freelance desarrollando aplicaciones iOS en equipos multidisciplinares como desarrollador iOS aplicando la metodología Scrum y los principios SOLID y Clean Code.
 
 🧑🏻‍💻 He realizado un Bootcamp de Desarrollo FullStack Mobile en las tecnologías de Swift y SwiftUI para iOS y Kotlin y Compose para Android. Me desarrollo bien en las dos plataformas.
 
@@ -41,7 +41,9 @@
 </br>
 
 ## Encuéntrame en:
-[![LinkedIn](https://img.shields.io/badge/Gabriel_Castro-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/gabriel-castro-alvarez)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Gabriel_Castro-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/gabriel-castro-alvarez)
+[![Malt](https://img.shields.io/badge/Malt-Gabriel_Castro-FF0000?style=for-the-badge&logo=malt&logoColor=white&labelColor=101010)](https://www.malt.es/profile/gabrielcastroalvarez)
+
 
 ### ⚙️ &nbsp;GitHub Analytics
 
