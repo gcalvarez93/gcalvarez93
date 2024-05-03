@@ -27,8 +27,8 @@
 💼 [Mis Proyectos](https://github.com/gcalvarez93?tab=repositories)
 
 ## Encuéntrame en:
-[![LinkedIn](https://img.shields.io/badge/Gabriel_Castro-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/gabriel-castro-alvarez)
-[![Malt](https://img.shields.io/badge/Gabriel_Castro-FF0000?style=for-the-badge&logo=malt&logoColor=white&labelColor=101010)](https://www.malt.es/profile/gabrielcastroalvarez)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Gabriel_Castro-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/gabriel-castro-alvarez)
+[![Malt](https://img.shields.io/badge/Malt-Gabriel_Castro-FF0000?style=for-the-badge&logo=malt&logoColor=white&labelColor=101010)](https://www.malt.es/profile/gabrielcastroalvarez)
 
 
 ### ⚙️ &nbsp;GitHub Analytics
