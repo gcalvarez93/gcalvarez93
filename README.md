@@ -36,6 +36,8 @@
        <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg"  title="Postman" alt="Postman" width="40" height="40"/>&nbsp;
        <img src="https://github.com/devicons/devicon/blob/master/icons/json/json-original.svg"  title="JSON" alt="JSON" width="40" height="40"/>&nbsp;
        <img src="https://github.com/devicons/devicon/blob/master/icons/junit/junit-original.svg"  title="JUnit" alt="JUnit" width="40" height="40"/>&nbsp;
+       <img src="https://github.com/devicons/devicon/blob/master/icons/sonarqube/sonarqube-original.svg"  title="SonarQube" alt="SonarQube" width="40" height="40"/>&nbsp;
+       <img src="https://github.com/devicons/devicon/blob/master/icons/azuredevops/azuredevops-original.svg"  title="Azure Devops" alt="Azure Devops" width="40" height="40"/>&nbsp;
    </div>
 
 ## 💼 Mis Proyectos
