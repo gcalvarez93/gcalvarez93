@@ -15,7 +15,27 @@
 
 💻 Actualmente trabajo como como desarrollador iOS freelance en equipos multidisciplinares aplicando la metodología Scrum y los principios SOLID y Clean Code.
 
-## Mis Proyectos
+
+   ## 🔨 Lenguajes y Herramientas:
+   <div>
+       <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" **alt="Git" width="40" height="40"/>
+       <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" **alt="GitHub" width="40" height="40"/>
+       <img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg"  title="Swift" alt="Swift" width="40" height="40"/>&nbsp;
+       <img src="https://github.com/devicons/devicon/blob/master/icons/xcode/xcode-original.svg"  title="Xcode" alt="Xcode" width="40" height="40"/>&nbsp;
+       <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg"  title="Kotlin" alt="Kotlin" width="40" height="40"/>&nbsp;
+       <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg"  title="Android" alt="Android" width="40" height="40"/>&nbsp;
+       <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg"  title="Android Studio" alt="Android Studio" width="40" height="40"/>&nbsp;
+       <img src="https://github.com/devicons/devicon/blob/master/icons/jetpackcompose/jetpackcompose-original.svg"  title="Compose" alt="Compose" width="40" height="40"/>&nbsp;
+       <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg"  title="Jira" alt="Jira" width="40" height="40"/>&nbsp;
+       <img src="https://github.com/devicons/devicon/blob/master/icons/confluence/confluence-original.svg"  title="Confluence" alt="Confluence" width="40" height="40"/>&nbsp;
+       <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-original.svg"  title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
+       <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg"  title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
+       <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg"  title="Postman" alt="Postman" width="40" height="40"/>&nbsp;
+       <img src="https://github.com/devicons/devicon/blob/master/icons/json/json-original.svg"  title="JSON" alt="JSON" width="40" height="40"/>&nbsp;
+       <img src="https://github.com/devicons/devicon/blob/master/icons/junit/junit-original.svg"  title="JUnit" alt="JUnit" width="40" height="40"/>&nbsp;
+   </div>
+
+## 💼 Mis Proyectos
 Aqui te dejo algunos de mis proyectos realizados hasta el momento:
 
  📑 [My CV](https://github.com/gcalvarez93/my-cv)
@@ -28,7 +48,7 @@ Aqui te dejo algunos de mis proyectos realizados hasta el momento:
 
 💼 [Mis Proyectos](https://github.com/gcalvarez93?tab=repositories)
 
-## Encuéntrame en:
+## 🔎 Encuéntrame en:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Gabriel_Castro-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/gabriel-castro-alvarez)
 [![Malt](https://img.shields.io/badge/Malt-Gabriel_Castro-FF0000?style=for-the-badge&logo=malt&logoColor=white&labelColor=101010)](https://www.malt.es/profile/gabrielcastroalvarez)
 
