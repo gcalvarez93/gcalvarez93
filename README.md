@@ -16,7 +16,7 @@
 💻 Actualmente trabajo como como desarrollador iOS freelance en equipos multidisciplinares aplicando la metodología Scrum y los principios SOLID y Clean Code.
 
 
-   ## 🔨 Lenguajes y Herramientas:
+   ## 🔨 Lenguajes y Herramientas
    <div>
        <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" **alt="Git" width="40" height="40"/>
        <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" **alt="GitHub" width="40" height="40"/>
@@ -55,7 +55,7 @@ Aqui te dejo algunos de mis proyectos realizados hasta el momento:
 
 💼 [Mis Proyectos](https://github.com/gcalvarez93?tab=repositories)
 
-## 🔎 Encuéntrame en:
+## 🔎 Encuéntrame en
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Gabriel_Castro-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/gabriel-castro-alvarez)
 [![Malt](https://img.shields.io/badge/Malt-Gabriel_Castro-FF0000?style=for-the-badge&logo=malt&logoColor=white&labelColor=101010)](https://www.malt.es/profile/gabrielcastroalvarez)
 
