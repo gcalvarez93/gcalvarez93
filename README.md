@@ -9,7 +9,7 @@
 ### iOS Developer
 </div
 
-📱 Soy un apasionado del desarrollo mobile con varios años de experiencia en el sector, desarrollando aplicaciones nativas, principalmente en iOS, aunque también he realizado proyectos en Android.
+📱 Soy un apasionado del desarrollo mobile con varios años de experiencia en el sector, desarrollando aplicaciones nativas, principalmente en iOS, aunque también he realizado proyectos en Android y multiplataforma con Flutter.
 
 🧑🏻‍💻 He realizado un Bootcamp de Desarrollo FullStack Mobile en las tecnologías de Swift y SwiftUI para iOS y Kotlin y Compose para Android, además de diversos cursos en Udemy y Platzi para profundizar en estas tecnologías. Me desarrollo bien en las dos plataformas.
 
