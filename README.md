@@ -1,8 +1,7 @@
 #  Hola, mi nombre es Gabriel Castro 👋🏻 
 
-<div id="header" align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="500"/>
-</div>
+![https://github.com/mouredev](./castrodev_github_profile.png)
+
 
 <div id="header" align="center">
 
