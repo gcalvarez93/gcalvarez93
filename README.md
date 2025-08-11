@@ -58,8 +58,8 @@ Aqui te dejo algunos de mis proyectos realizados hasta el momento:
 
 ## 🔎 Encuéntrame en
 [![Web](https://img.shields.io/badge/Web-CastroDev.com-14a1f0?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://castrodev.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Gabriel_Castro-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/gabriel-castro-alvarez)
-[![X](https://img.shields.io/badge/X-@castrodev-808080?style=for-the-badge&logo=x&logoColor=white&labelColor=101010)](https://x.com/castrodev_)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Brais_Moure-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/braismoure)
+[![X](https://img.shields.io/badge/X-@castrodev-333333?style=for-the-badge&logo=x&logoColor=white&labelColor=101010)](https://x.com/castrodev_)
 [![Instagram](https://img.shields.io/badge/Instagram-@castrodev-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://instagram.com/castrodev_)
 
 ## ⚙️ &nbsp;GitHub Analytics
