@@ -56,12 +56,6 @@ Aqui te dejo algunos de mis proyectos realizados hasta el momento:
 
 💼 [Mis Proyectos](https://github.com/gcalvarez93?tab=repositories)
 
-## 🔎 Encuéntrame en
-[![Web](https://img.shields.io/badge/Web-CastroDev.com-14a1f0?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://castrodev.com)
-[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-castro-alvarez)
-[![X](https://img.shields.io/badge/X-@castrodev-333333?style=for-the-badge&logo=x&logoColor=white&labelColor=101010)](https://x.com/castrodev_)
-[![Instagram](https://img.shields.io/badge/Instagram-@castrodev-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://instagram.com/castrodev_)
-
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
