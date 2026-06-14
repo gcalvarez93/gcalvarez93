@@ -43,7 +43,7 @@ Aqui te dejo algunos de mis proyectos realizados hasta el momento:
 
  📑 [Finance Tracker](https://github.com/gcalvarez93/finance-tracker)
  
- ☀️ [budget Scanner](https://github.com/gcalvarez93/budget-scanner)
+ ☀️ [Budget Scanner](https://github.com/gcalvarez93/budget-scanner)
 
  ➕ [Recipe Manager](https://github.com/gcalvarez93/recipe-manager)
 
