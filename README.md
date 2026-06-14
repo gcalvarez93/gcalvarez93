@@ -28,10 +28,6 @@
        <img src="https://github.com/devicons/devicon/blob/master/icons/jetpackcompose/jetpackcompose-original.svg"  title="Compose" alt="Compose" width="40" height="40"/>&nbsp;
       <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg"  title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
       <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg"  title="Dart" alt="Dart" width="40" height="40"/>&nbsp;
-       <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"  title="Python" alt="Python" width="40" height="40"/>&nbsp;
-       <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"  title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-       <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg"  title="Jira" alt="Jira" width="40" height="40"/>&nbsp;
-       <img src="https://github.com/devicons/devicon/blob/master/icons/confluence/confluence-original.svg"  title="Confluence" alt="Confluence" width="40" height="40"/>&nbsp;
        <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-original.svg"  title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
        <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg"  title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
        <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg"  title="Postman" alt="Postman" width="40" height="40"/>&nbsp;
@@ -40,17 +36,16 @@
        <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg"  title="SQLite" alt="SQLite" width="40" height="40"/>&nbsp;
        <img src="https://github.com/devicons/devicon/blob/master/icons/junit/junit-original.svg"  title="JUnit" alt="JUnit" width="40" height="40"/>&nbsp;
        <img src="https://github.com/devicons/devicon/blob/master/icons/sonarqube/sonarqube-original.svg"  title="SonarQube" alt="SonarQube" width="40" height="40"/>&nbsp;
-       <img src="https://github.com/devicons/devicon/blob/master/icons/azuredevops/azuredevops-original.svg"  title="Azure Devops" alt="Azure Devops" width="40" height="40"/>&nbsp;
    </div>
 
 ## 💼 Mis Proyectos
 Aqui te dejo algunos de mis proyectos realizados hasta el momento:
 
- 📑 [My CV](https://github.com/gcalvarez93/my-cv)
+ 📑 [My CV](https://github.com/gcalvarez93/finance-tracker)
  
- ☀️ [Weather App](https://github.com/gcalvarez93/weather-ios-app)
+ ☀️ [Weather App](https://github.com/gcalvarez93/budget-scanner)
 
- ➕ [Clon Calculadora iOS](https://github.com/gcalvarez93/calculadora-ios)
+ ➕ [Clon Calculadora iOS](https://github.com/gcalvarez93/recipe-manager)
 
  Puedes consultar todos mis proyectos en: 
 
