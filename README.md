@@ -41,11 +41,11 @@
 ## 💼 Mis Proyectos
 Aqui te dejo algunos de mis proyectos realizados hasta el momento:
 
- 📑 [My CV](https://github.com/gcalvarez93/finance-tracker)
+ 📑 [Finance Tracker](https://github.com/gcalvarez93/finance-tracker)
  
- ☀️ [Weather App](https://github.com/gcalvarez93/budget-scanner)
+ ☀️ [budget Scanner](https://github.com/gcalvarez93/budget-scanner)
 
- ➕ [Clon Calculadora iOS](https://github.com/gcalvarez93/recipe-manager)
+ ➕ [Recipe Manager](https://github.com/gcalvarez93/recipe-manager)
 
  Puedes consultar todos mis proyectos en: 
 
