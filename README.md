@@ -1,6 +1,6 @@
 #  Hola, mi nombre es Gabriel Castro 👋🏻 
 
-![https://github.com/gcalvarez93](./github_portada.png)
+![https://github.com/gcalvarez93](./github_dashboard.png)
 
 
 <div id="header" align="center">
